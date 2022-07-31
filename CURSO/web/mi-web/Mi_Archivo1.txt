@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+Esto es una prueba de kubernetes
+
+tomando el curso de github
+muy buen curso facilitador experto
+=======
+Esto es una prueba de kubernetes
+
+tomando el curso de github
+Github course good 
+>>>>>>> 56f0191c8352dd0f70bcd1b77a3b10ef6c3e93a9
