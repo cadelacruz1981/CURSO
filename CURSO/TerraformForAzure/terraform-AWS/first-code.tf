@@ -11,8 +11,8 @@ provider "aws" {
   # Configuration options
     region = "us-east-1"
     #version = "~> 4.24.0"
-    access_key = "AKIAWZHOMN5JHYBM767I"
-    secret_key = "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"
+    access_key = ""
+    secret_key = ""
 }
 resource "aws_s3_bucket" "tf_course" {
   bucket = "prueba-01"
